@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Hemant
 #### Home automation, IoT and data science enthusiast.
-With 15+ years of experience as a developer, I focus on building IoT solutions from devices, gateways and IoT platform point of view. My expertise includes architecting and designing IoT solutions, building devices, gateways, IoT cloud backend, and running workloads on the edge devices.
+I am a software developer/architest focusing on building IoT solutions from devices, gateways and IoT platform point of view. My expertise includes architecting and designing IoT solutions, building devices, gateways, IoT cloud backend and running workloads on the edge devices.
 With emergence of Artificial Intelligence and Machine Learning technology, I also focus on implementing AI and ML in both cloud and edge devices. 
 
 Skills: IoT, AI, Python, NodeJs, Azure
