@@ -5,9 +5,11 @@ With emergence of Artificial Intelligence and Machine Learning technology, I als
 
 Skills: IoT, AI, Python, NodeJs, Azure
 
-🔭 I’m currently working on IoT, Home automation
-🌱 I’m currently learning Azure, deep learning and Graphql 
-💬 Ask me about IoT, Home automation
+ - 🔭 I’m currently working on IoT, Home automation
+ - 🌱 I’m currently learning Azure, deep learning and Graphql 
+ - 💬 Ask me about IoT, Home automation
+
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=hemantkamalakar&show_icons=true)
 
 ## Find me around the web 🌎:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hemantkamalakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/hemantkamalakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hemantkamalakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/hemant.kamalakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hemantkamalakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/hemantkamalakar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/1509605/hemant-kamalakar)  
