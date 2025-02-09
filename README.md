@@ -1,13 +1,18 @@
-### Hi there 👋 💻, my name is Hemant
-#### Home automation, IoT and data science enthusiast.
-I am a software developer/architect focusing on building IoT solutions from devices, gateways and IoT platform point of view. My expertise includes architecting and designing IoT solutions, building devices, gateways, IoT cloud backend and running workloads on the edge devices.
-With emergence of Artificial Intelligence and Machine Learning technology, I also focus on implementing AI and ML in both cloud and edge devices. 
+🏗️ IoT Solution Architect | 🤖 AI Integration Specialist
 
-Skills: IoT, AI, Python, NodeJs, Azure
+Building intelligent digital ecosystems that bridge the physical and digital worlds. 20+ years of experience architecting enterprise-scale IoT solutions with real-time analytics and AI integration.
 
- - 🔭 I’m currently working on IoT, Home automation
- - 🌱 I’m currently learning Azure, deep learning and Graphql 
- - 💬 Ask me about IoT, Home automation
+🔧 Tech Stack:
+- IoT Platform Development
+- Digital Twins & Real-time Analytics
+- AI/ML & Generative AI
+- Smart Assistants
+- Python | Node.js | Azure AI
+- Cloud Infrastructure
+
+🎯 Focus: Creating scalable, intelligent systems that transform operational efficiency through IoT and AI integration.
+
+📫 Open to collaborate on innovative IoT and AI projects that push the boundaries of digital transformation.
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=hemantkamalakar&show_icons=true)
 
